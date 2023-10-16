@@ -1,0 +1,17 @@
+{
+    "name": "wild/app",
+    "autoload": {
+        "psr-4": {
+            "Wild\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jojopok",
+            "email": "zaiajonathan@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.2"
+    }
+}
